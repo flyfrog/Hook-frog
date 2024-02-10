@@ -7,4 +7,6 @@ Use your tongue as a hook.
 
 A new level is generated every time you start. Every time a new experience.
 
+[Gameplay video](https://youtu.be/mANZkZiWRIo "Gameplay video")
+
 [Store](https://play.google.com/store/apps/details?id=com.FlyFrogStudio.HookFrogRoguelike&hl=ru "Store")
